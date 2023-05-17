@@ -1,0 +1,24 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "1. Assurez-vous que vous avez installé Sequelize et SQLite en tant que dépendances dans votre projet Node.js. Vous pouvez utiliser npm pour cela en exécutant la commande suivante :Copy codenpm \r ```\r npm install sequelize sqlite3\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyslegion/Sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyslegion/Sequelize/issues"
+  },
+  "homepage": "https://github.com/kyslegion/Sequelize#readme",
+  "dependencies": {
+    "sequelize": "^6.31.1",
+    "sqlite3": "^5.1.6"
+  }
+}
